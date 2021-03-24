@@ -1,5 +1,5 @@
 # ceRNA_in_af
-This repository provides R codes to fully replicate the results in the publication of 'Identifying ceRNA networks associated with the susceptibility and persistence of atrial fibrillation through weighted gene co-expression network analysis'.
+This repository provides R codes to fully replicate the results in the publication of 'Identifying ceRNA networks associated with the susceptibility and persistence of atrial fibrillation through weighted gene co-expression network analysis'. If using these, please reference the paper.
 Data used in the analyses all come from public available repositories:
 
 The datasets GSE69890 and GSE41177 were downloaded from the NCBI Gene Expression Omnibus (GEO) database (https://www.ncbi.nlm.nih.gov/);
